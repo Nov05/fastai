@@ -42,9 +42,11 @@ print('Device:', torch.device('cuda:0'))
 ### P.S.
 
 * After seting up fastai for Windows 10, two "Jupyter Notebook" options can be found in the Start Menu.
+
 <img width="400" src="https://github.com/Nov05/fastai/blob/master/images/001.jpg">
 
 * To start the non-fastai environment, you can choose "Jupyter Notebook" in the Windows Start Menu, or simply type `jupyter notebook` in Anaconda. e.g. I got the following version information.
+
 <img width="600" src="https://github.com/Nov05/fastai/blob/master/images/002.jpg">
 
 * To start the fastai environment, you can choose "Jupyter Notebook (fastai)" in the Start Menu, or run the following code in Anaconda.
@@ -54,11 +56,14 @@ jupyter notebook
 ```
 
 e.g. I got the following version information.
+
 <img width="600" src="https://github.com/Nov05/fastai/blob/master/images/003.jpg">
 
 * If you ran into error similar to "Found GPU0 GeForce GTX 950M which is of cuda capability 5.0.", update PyTorch version to later than 0.4.0 in the fastai environment with the method mentioned before.
+
 <img width="600" src="https://github.com/Nov05/fastai/blob/master/images/004.jpg">
 
 e.g. I got the following version information after updating.
+
 <img width="600" src="https://github.com/Nov05/fastai/blob/master/images/005.jpg">
 
