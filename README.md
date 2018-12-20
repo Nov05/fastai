@@ -37,9 +37,7 @@ print("cuDNN version is: ", torch.backends.cudnn.version())
 print('Device:', torch.device('cuda:0'))
 ```
 ### Open Issues
-* Colab setup: https://gist.github.com/gilrosenthal/58e9b4f9d562d000d07d7cf0e5dbd840
-
-...Discussion: https://forums.fast.ai/t/bcolz-open-error-no-such-file-or-directory-file-dat-meta-sizes/6897/3
+* Colab setup: https://gist.github.com/gilrosenthal/58e9b4f9d562d000d07d7cf0e5dbd840  Discussion: https://forums.fast.ai/t/bcolz-open-error-no-such-file-or-directory-file-dat-meta-sizes/6897/3
 
 <br><br><br>
 ### P.S.
