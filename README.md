@@ -28,7 +28,7 @@ conda install -c pytorch pytorch
 ```
 
 ### Check Versions
-Use the following code to check versions
+Use the following code to check versions.
 ```
 import torch
 print("PyTorch version: ", torch.__version__)
@@ -37,18 +37,19 @@ print("cuDNN version is: ", torch.backends.cudnn.version())
 print('Device:', torch.device('cuda:0'))
 ```
 ### Open Issues
-* Colab setup https://gist.github.com/gilrosenthal/58e9b4f9d562d000d07d7cf0e5dbd840
+* Colab setup: https://gist.github.com/gilrosenthal/58e9b4f9d562d000d07d7cf0e5dbd840
+...Discussion: https://forums.fast.ai/t/bcolz-open-error-no-such-file-or-directory-file-dat-meta-sizes/6897/3
 
 <br><br><br>
 ### P.S.
 
 * After seting up fastai for Windows 10, two "Jupyter Notebook" options can be found in the Start Menu.
 
-<img width="400" src="https://github.com/Nov05/fastai/blob/master/images/001.jpg">
+...<img width="400" src="https://github.com/Nov05/fastai/blob/master/images/001.jpg">
 
 * To start the non-fastai environment, you can choose "Jupyter Notebook" in the Windows Start Menu, or simply type `jupyter notebook` in Anaconda. e.g. I got the following version information.
 
-<img width="600" src="https://github.com/Nov05/fastai/blob/master/images/002.jpg">
+...<img width="600" src="https://github.com/Nov05/fastai/blob/master/images/002.jpg">
 
 * To start the fastai environment, you can choose "Jupyter Notebook (fastai)" in the Start Menu, or run the following code in Anaconda.
 ```
