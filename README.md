@@ -7,6 +7,7 @@
 ### Versions
 For fastai courses, use fastai 0.7.0
 * Google Colab set up: https://colab.research.google.com/drive/1pYYddH90hdOKPdhVeC69xoz8AszrpYbz
+* Google Cobad setup 2: https://colab.research.google.com/github/corykendrick/fastai_in_colab/blob/master/Using_Google_Colab_for_Fastai.ipynb
 * Windows 10 set up: https://forums.fast.ai/t/howto-installation-on-windows/10439
 * Fix "Error: No module named 'bcolz'": https://forums.fast.ai/t/error-no-module-named-bcolz-but-bcolz-is-already-installed/9504/11
 ```
