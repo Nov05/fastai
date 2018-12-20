@@ -55,15 +55,11 @@ conda activate fastai
 jupyter notebook
 ```
 
-e.g. I got the following version information.
-
+e.g. I got the following version information.  
 <img width="600" src="https://github.com/Nov05/fastai/blob/master/images/003.jpg">
 
-* If you ran into error similar to "Found GPU0 GeForce GTX 950M which is of cuda capability 5.0.", update PyTorch version to later than 0.4.0 in the fastai environment with the method mentioned before.
-
-<img width="600" src="https://github.com/Nov05/fastai/blob/master/images/004.jpg">
-
-e.g. I got the following version information after updating.
-
+* If you ran into error similar to "Found GPU0 GeForce GTX 950M which is of cuda capability 5.0.", update PyTorch version to later than 0.4.0 in the fastai environment with the method mentioned before.  
+<img width="600" src="https://github.com/Nov05/fastai/blob/master/images/004.jpg">  
+e.g. I got the following version information after updating.  
 <img width="600" src="https://github.com/Nov05/fastai/blob/master/images/005.jpg">
 
